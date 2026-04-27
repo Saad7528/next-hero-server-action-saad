@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "task_name": "Update system security patches",
+    "category": "IT Operations",
+    "priority": "High",
+    "status": "In Progress",
+    "due_date": "2026-05-01",
+    "assigned_to": "Alice Johnson"
+  },
+  {
+    "id": 2,
+    "task_name": "Design Q3 marketing banners",
+    "category": "Marketing",
+    "priority": "Medium",
+    "status": "Todo",
+    "due_date": "2026-05-15",
+    "assigned_to": "Bob Smith"
+  },
+  {
+    "id": 3,
+    "task_name": "Quarterly financial audit",
+    "category": "Finance",
+    "priority": "High",
+    "status": "Todo",
+    "due_date": "2026-06-10",
+    "assigned_to": "Charlie Davis"
+  },
+  {
+    "id": 4,
+    "task_name": "Refactor authentication module",
+    "category": "Development",
+    "priority": "Medium",
+    "status": "Completed",
+    "due_date": "2026-04-20",
+    "assigned_to": "Dana Lee"
+  },
+  {
+    "id": 5,
+    "task_name": "Client feedback survey",
+    "category": "Customer Success",
+    "priority": "Low",
+    "status": "Todo",
+    "due_date": "2026-05-25",
+    "assigned_to": "Evan Wright"
+  },
+  {
+    "id": 6,
+    "task_name": "New employee onboarding",
+    "category": "HR",
+    "priority": "Medium",
+    "status": "In Progress",
+    "due_date": "2026-05-05",
+    "assigned_to": "Fiona Green"
+  },
+  {
+    "id": 7,
+    "task_name": "Optimize database queries",
+    "category": "Development",
+    "priority": "High",
+    "status": "Todo",
+    "due_date": "2026-05-12",
+    "assigned_to": "George Miller"
+  },
+  {
+    "id": 8,
+    "task_name": "Warehouse inventory check",
+    "category": "Logistics",
+    "priority": "Low",
+    "status": "Completed",
+    "due_date": "2026-04-25",
+    "assigned_to": "Hannah Ross"
+  },
+  {
+    "id": 9,
+    "task_name": "API documentation update",
+    "category": "Documentation",
+    "priority": "Medium",
+    "status": "In Progress",
+    "due_date": "2026-05-08",
+    "assigned_to": "Ian Clark"
+  },
+  {
+    "id": 10,
+    "task_name": "Prepare annual board presentation",
+    "category": "Management",
+    "priority": "High",
+    "status": "Todo",
+    "due_date": "2026-06-01",
+    "assigned_to": "Julia Wang"
+  }
+]
