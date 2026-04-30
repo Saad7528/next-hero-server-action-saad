@@ -3,7 +3,7 @@ import React from 'react';
 import Task from '../component/Task';
 
 const Tasks = async () => {
-    const tasks = await getTasks()
+    const tasks = await getTasks();
     return (
         <div>
             <h1>Task : {tasks.length}</h1>
