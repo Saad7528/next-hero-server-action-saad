@@ -1,5 +1,5 @@
 "use client";
-import { Check, Power } from "@gravity-ui/icons";
+import { Moon, Sun } from "@gravity-ui/icons";
 import { Switch } from "@heroui/react";
 import { useTheme } from "next-themes";
 import React from 'react';
@@ -22,9 +22,9 @@ const ThemeToggleButton = () => {
                         >
                             <Switch.Icon>
                                 {isSelected ? (
-                                    <Check className="size-4 text-cyan-600" />
+                                    <Sun className="size-4 text-cyan-600" />
                                 ) : (
-                                    <Power className="size-4 text-blue-600" />
+                                    <Moon className="size-4 text-blue-600" />
                                 )}
                             </Switch.Icon>
                         </Switch.Thumb>
